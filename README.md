@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav!</h1>
 <h3 align="center">A focused full-stack software engineer from Southern California</h3>
 
-- ⚡ Fun fact: **I can name the last 10 NBA MVP award winners 🏀**
+- ⚡ Fun fact: **I can name the last 10 MVP award winners from the NBA 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
